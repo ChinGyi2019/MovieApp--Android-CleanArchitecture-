@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="MovieDBApp_Clean_Architecture.android" target="11" />
+      <module name="MovieDBApp_Clean_Architecture.app" target="11" />
+      <module name="MovieDBApp_Clean_Architecture.buildSrc" target="11" />
+      <module name="MovieDBApp_Clean_Architecture.data.android" target="11" />
+      <module name="MovieDBApp_Clean_Architecture.data.cache" target="11" />
+      <module name="MovieDBApp_Clean_Architecture.data.common" target="11" />
+      <module name="MovieDBApp_Clean_Architecture.data.network" target="11" />
+      <module name="MovieDBAppCleanArchitecture.buildSrc" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
